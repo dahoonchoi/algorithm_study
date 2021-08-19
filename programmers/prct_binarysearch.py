@@ -9,29 +9,32 @@
 # 입국심사를 기다리는 사람 수 n, 각 심사관이 한 명을 심사하는데 걸리는 시간이 담긴 배열 times가 매개변수로 주어질 때, 
 # 모든 사람이 심사를 받는데 걸리는 시간의 최솟값을 return 하도록 solution 함수를 작성해주세요.
 
-times = [7,10]
-n = 6
 
-answer = 0
+def Calculation(value1,value2):
+     answer = 0
+
+    if __name__ == "__main__":
+        try:
+          answer = 0
+          left = 1
+          right = n * max(times)
     
-length = len(times)
-left = 1
-rigth = n * max(times)
+          while left < right:
+               mid = (right+left)//2
+               total = 0
+          
+               for t in times:
+                    total += mid//t
+               
+                    if total >= n :
+                         answer = mid
+                         right = mid =1
+                    else:
+                         left = mid + 1
+          
+          answer = left
+          
+        except ValueError as e:
+     print(answer)
 
-while left < rigth:
-   mid = ( left * rigth ) //2
-   
-   total = 0
-   for t in times:
-       total += mid // t 
-   print('total : ',total, 't',t) 
-
-   if total >= n:
-        # 심사 미완료 인원
-        rigth = total
-   elif total < n:
-        left = mid + 1
-   print(rigth)        
-   print(left)        
-
-print(mid)
+Calculation(6,[7,10])
