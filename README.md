@@ -1,6 +1,4 @@
-# ALGORITHM STUDY
-
-## History
+# ALGORITHM STUDY_HISTORY
 
 - __2021.08.18__
   + ([Division](https://github.com/dahoonchoi/algorithm_study/blob/main/hackerrank/prct_division.py) - 할당연산자 '//' , '/' 차이점)
