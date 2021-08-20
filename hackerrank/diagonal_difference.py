@@ -1,10 +1,6 @@
-# Function description
-
-# Complete the Diagonal Difference function in the editor below.
-
-# diagonalDifference takes the following parameter:
-
-# int arr[n][m]: an array of integers
+#
+# 행렬의 각 대각선의 합의 차 
+#
 
 # 1 2 3
 # 3 5 9
@@ -34,19 +30,3 @@ def diagonalDifference(arr):
     
     # 절대값 abs
     return abs(total)
-
-if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
-    n = int(raw_input().strip())
-
-    arr = []
-
-    for _ in xrange(n):
-        arr.append(map(int, raw_input().rstrip().split()))
-
-    result = diagonalDifference(arr)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
