@@ -9,6 +9,8 @@
 # The function is expected to return a LONG_INTEGER.
 # The function accepts LONG_INTEGER_ARRAY ar as parameter.
 
+# 배열로 들어온 값의 합 계산
+
 def aVeryBigSum(ar):
     # Write your code here
     total = 0
