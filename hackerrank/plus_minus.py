@@ -22,15 +22,3 @@ def plusMinus(arr):
             zero += 1
             
     return (postive, negative, zero)
-
-if __name__ == '__main__':
-    n = int(raw_input().strip())
-
-    arr = map(int, raw_input().rstrip().split())
-
-    answer = plusMinus(arr)
-
-    # 결과물이 6자리 소수점을 필요로 해서 format 사용
-    print("{0:.6f}".format(float(answer[0])/n))
-    print("{0:.6f}".format(float(answer[1])/n))
-    print("{0:.6f}".format(float(answer[2])/n))
