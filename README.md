@@ -15,4 +15,8 @@
   + ([Staircase](https://github.com/dahoonchoi/algorithm_study/blob/main/hackerrank/staircase.py) - 계단식으로 오른쪽정렬 '#'을 출력   )
 - __2021.08.24__
   + ([BirthdayCakeCandles](https://github.com/dahoonchoi/algorithm_study/blob/main/hackerrank/birthday_cake_candles.py) - 4가지의 정수 중 가장 큰 수의 갯수)
+- __2021.08.30__
+  + ([GradingStudents](https://github.com/dahoonchoi/algorithm_study/blob/main/hackerrank/grading_students.py) - 값을 5의 배수로 반올림 후 차가 3보다 크면 5의 배수 아니면 기존값 그대로 출력)
+  + ([TimeConversion](https://github.com/dahoonchoi/algorithm_study/blob/main/hackerrank/time_conversion.py) - PM/AM 값을 24:00:00 으로 변환)
+  
 
