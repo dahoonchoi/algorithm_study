@@ -18,6 +18,7 @@ def birthdayCakeCandles(candles):
             # 최대값보다 c 값이 크면 최대값에 c
             mav = c
         elif c == mav:
+            # 같으면 count 값만 증가
             count += 1
     
     print(count) 
