@@ -20,3 +20,5 @@
   + ([TimeConversion](https://github.com/dahoonchoi/algorithm_study/blob/main/hackerrank/time_conversion.py) - PM/AM 값을 24:00:00 으로 변환)
 - __2021.09.06__
   + ([AppleAndOrange](https://github.com/dahoonchoi/algorithm_study/blob/main/hackerrank/apple_and_orange.py) - 집의 시작점 종료점을 받아 오렌지, 사과 나무에서 떨어진 열매가 집 영역으로 들어온 값 산출)
+ - __2021.09.07__
+  + ([NumberLineJumps](https://github.com/dahoonchoi/algorithm_study/blob/main/hackerrank/number_line_jumps.py) - 서로 다른 보폭과 시작점의 캥거루가 만날 수 있는 Bool 값)
