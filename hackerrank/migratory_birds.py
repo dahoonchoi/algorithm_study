@@ -12,31 +12,16 @@ import re
 import sys
 
 def migratoryBirds(arr):
-    
-    max_sight = 0
-    rep_sight = 0
-    max_type = 0
 
-    # 처음 받은 배열의 총길이를 구한다
-    for org in range(len(ar)):
-        # 배열의 각 위치마다 비교할 값을 구한다.
-        print(ar[org])
-        for rep in range(len(ar)):
-            
-            # 배열의 값이 같은지 비교한다.
-            if ar[org] == ar[rep]:
-                rep_sight = rep_sight + 1
-        print(ar[org],'sight :',rep_sight)
+    # 타입은 1부터 6까지이기 때문에 1부터 6까지의 값을 count 함수를 써서
+    # 몇개가 들어가있는 지 확인한다
+    n = [arr.count(i) for i in range(1,6)]
 
-        if max_sight <= rep_sight:
-            print('max_sight',':',rep_sight)
-            print('max_type :', arr[org])
-            max_type = arr[org]
-            max_sight = rep_sight
-        
-        print('----------')
-
-        rep_sight = 0
+    for l in range(len(n)):
+        if n[l] == max(n):    
+            # value(n[l]) 중 가장 작은 type 값(l) 을 가지고 와야하기 때문에
+            # 가장 큰 값과 비교할 값이 같으면 바로 return 시켜준다
+            return l+1
 
 ar = [1,2,3,4,5,4,3,2,1,3,4]
 
