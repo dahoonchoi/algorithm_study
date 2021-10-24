@@ -9,32 +9,38 @@
 # 입국심사를 기다리는 사람 수 n, 각 심사관이 한 명을 심사하는데 걸리는 시간이 담긴 배열 times가 매개변수로 주어질 때, 
 # 모든 사람이 심사를 받는데 걸리는 시간의 최솟값을 return 하도록 solution 함수를 작성해주세요.
 
-
-def Calculation(value1,value2):
-     answer = 0
-
-    if __name__ == "__main__":
-        try:
-          answer = 0
-          left = 1
-          right = n * max(times)
+# 이분탐색
+def solution(n, times):
+    answer = 0
+    #왼쪽에 가장 작은 값
+    left = 1
+    #오른쪽에 가장 큰 값
+    right = max(times)*n
     
-          while left < right:
-               mid = (right+left)//2
-               total = 0
-          
-               for t in times:
-                    total += mid//t
-               
-                    if total >= n :
-                         answer = mid
-                         right = mid =1
-                    else:
-                         left = mid + 1
-          
-          answer = left
-          
-        except ValueError as e:
-     print(answer)
+    # 왼쪽의 값보다 오른쪽 값이 크면 최종 값이 결정된 것이기 때문에 while문 돌린다
+    while left < right:
+         # 이분탐색을 위해 큰값과 작은값을 2로 나누어 평균값을 구한다.
+         # //를 사용해서 정수형으로 나눈다
+         mid = (left+right)//2
+         total = 0
+         # 평균값에서 심사자마다 감당할 수 있는 입국심사 대기자수를 구한다
+         for t in times:
+              # 한명당 처리할 수 있는 대기자의 합을 구한다.
+              total += mid//t
+         # 만약 심사관이 처리할 수 있는 합이 대기자 보다 크거나 같으면
+         # 대기자를 더 처리할 수도 있기 때문에
+         # 이분탐색에 종료값(max) 값을 줄인다.
+         if total >= n:
+              right = mid
+         # 만약 심사자들이 처리할 수 있는 합이 대기자보다 작으면
+         # 시작값(min) 값을 늘린다.
+         else:
+              left = mid + 1
+    # while 문을 빠져나왔다는 것은 최종값이 결정되었기 때문에
+    # 최솟값을 전달한다.
+    answer = left
+    return answer
 
-Calculation(6,[7,10])
+n = 7
+times = [10,7]
+print(solution(n,times))
