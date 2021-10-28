@@ -13,11 +13,28 @@ import sys
 
 def climbingLeaderboard(ranked, player):
 
-    ranked.extend(player)
-    buff = sorted(ranked,reverse=True)
-    print(buff)
+    distinct = sorted(list(set(ranked)), reverse = True)
+    l_dis = len(distinct)
+
     for p in player:
-        print(buff.index(p)+1)
+        while l_dis > 0 and p >= distinct[l_dis-1]:
+            l_dis -= 1
+
+        print(l_dis+1)
+
+
+    # 효율성...X
+    # for p in player:
+    #     b = []
+    #     b = ranked[:]
+    #     b.append(p)
+
+    #     z = list(set(b))
+    #     z.sort(reverse=True)
+
+    #     print(z)
+    #     print(z.index(p)+1)
+
 
 ranks = [100,90,90,80,75,60]
 player = [50,65,77,90,102]

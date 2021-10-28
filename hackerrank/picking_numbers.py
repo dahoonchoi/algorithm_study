@@ -23,6 +23,7 @@ def pickingNumbers(a):
 
        if c+d > answer:
            answer = c+d
+           
 
     return answer
 
