@@ -40,3 +40,13 @@
 | 9498      |  [성적계산](https://www.acmicpc.net/problem/9498)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/9498_%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81.py)|   
 | 1330      |  [두값비교](https://www.acmicpc.net/problem/1330)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/1330_%EB%91%90%EC%88%98%EB%B9%84%EA%B5%90.py)|   
 </details>
+
+<details><summary>🔑 <strong>Programmers<strong>
+</summary>
+<br/>
+  
+| 종류      |                                                 문제                                                  | 풀이      |
+| :-------: | :---------------------------------------------------------------------------------------------------:| :-------: |
+| 이분탐색      |  [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43238)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/Programmers/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89.py)|     
+| 이분탐색     |  [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/Programmers/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89.py)|   
+</details>
