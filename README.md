@@ -39,6 +39,9 @@
 | 10998     |  [곱셈과정](https://www.acmicpc.net/problem/10998)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EC%9E%85%EC%B6%9C%EB%A0%A5_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/2588_%EA%B3%B1%EC%85%88%EA%B3%BC%EC%A0%95.py)|   
 | 9498      |  [성적계산](https://www.acmicpc.net/problem/9498)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/9498_%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81.py)|   
 | 1330      |  [두값비교](https://www.acmicpc.net/problem/1330)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/1330_%EB%91%90%EC%88%98%EB%B9%84%EA%B5%90.py)|   
+| 2753      |  [윤년](https://www.acmicpc.net/problem/2753)    | [풀이](hhttps://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/2753_%EC%9C%A4%EB%85%84.py)|   
+| 2884      |  [알람시계](https://www.acmicpc.net/problem/2884)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/2884_%EC%95%8C%EB%9E%8C%EC%8B%9C%EA%B3%84.py)|  
+| 14681      |  [사분면고르기](https://www.acmicpc.net/problem/14681)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/14681_%EC%82%AC%EB%B6%84%EB%A9%B4%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)|  
 </details>
 
 <details><summary>🔑 <strong>Programmers<strong>
