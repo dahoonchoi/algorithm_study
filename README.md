@@ -42,6 +42,26 @@
 | 2753      |  [윤년](https://www.acmicpc.net/problem/2753)    | [풀이](hhttps://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/2753_%EC%9C%A4%EB%85%84.py)|   
 | 2884      |  [알람시계](https://www.acmicpc.net/problem/2884)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/2884_%EC%95%8C%EB%9E%8C%EC%8B%9C%EA%B3%84.py)|  
 | 14681      |  [사분면고르기](https://www.acmicpc.net/problem/14681)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/14681_%EC%82%AC%EB%B6%84%EB%A9%B4%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)|  
+| 9498      |  [시험성적](https://www.acmicpc.net/problem/9498)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/9498_%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81.py)|  
+| 10871      |  [x보다작은수](https://www.acmicpc.net/problem/10871)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%98%EB%AA%A9%EB%AC%B8/10871_x%EB%B3%B4%EB%8B%A4%EC%9E%91%EC%9D%80%EC%88%98.py)|  
+| 10950      |  [A더하기B](https://www.acmicpc.net/problem/10950)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%98%EB%AA%A9%EB%AC%B8/10950_A%EB%8D%94%ED%95%98%EA%B8%B0B.py)|  
+| 15552      |  [빠른A더하기B](https://www.acmicpc.net/problem/15552)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%98%EB%AA%A9%EB%AC%B8/15552_%EB%B9%A0%EB%A5%B8A%EB%8D%94%ED%95%98%EA%B8%B0B.py)|  
+| 2438      |  [별찍기1](https://www.acmicpc.net/problem/2438)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%98%EB%AA%A9%EB%AC%B8/2438_%EB%B3%84%EC%B0%8D%EA%B8%B01.py)|  
+| 2439      |  [별찍기2](https://www.acmicpc.net/problem/2439)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%98%EB%AA%A9%EB%AC%B8/2438_%EB%B3%84%EC%B0%8D%EA%B8%B01.py)|  
+| 2739      |  [구구단](https://www.acmicpc.net/problem/2739)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%98%EB%AA%A9%EB%AC%B8/2739_%EA%B5%AC%EA%B5%AC%EB%8B%A8.py)|  
+| 2741      |  [N찍기](https://www.acmicpc.net/problem/2741)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%98%EB%AA%A9%EB%AC%B8/2741_N%EC%B0%8D%EA%B8%B0.py)|  
+| 2742      |  [반대N찍기](https://www.acmicpc.net/problem/2742)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%98%EB%AA%A9%EB%AC%B8/2742_%EA%B8%B0%EC%B0%8DN.py)|  
+| 8393      |  [총합구하기](https://www.acmicpc.net/problem/8393)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%98%EB%AA%A9%EB%AC%B8/8393_%ED%95%A9.py)|  
+| 10951      |  [A더하기B(While)](https://www.acmicpc.net/problem/10951)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/While%EB%AC%B8/10951_A%EB%8D%94%ED%95%98%EA%B8%B0B.py)|  
+| 10952      |  [0이 들어올때 까지](https://www.acmicpc.net/problem/10952)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/While%EB%AC%B8/10952_0%EC%9D%B4%EB%93%A4%EC%96%B4%EC%98%AC%EB%95%8C%EA%B9%8C%EC%A7%80.py)|  
+| 1110      |  [더하기사이클](https://www.acmicpc.net/problem/1110)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/While%EB%AC%B8/1110_%EB%8D%94%ED%95%98%EA%B8%B0%EC%82%AC%EC%9D%B4%ED%81%B4.py)|  
+| 10818      |  [최소최대](https://www.acmicpc.net/problem/10818)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%B0%EC%97%B4/10818_%EC%B5%9C%EC%86%8C%EC%B5%9C%EB%8C%80.py)|  
+| 1546      |  [평균구하기(배열)](https://www.acmicpc.net/problem/1546)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%B0%EC%97%B4/1546_%ED%8F%89%EA%B7%A0.py)|  
+| 2562      |  [평균구하기(배열)](https://www.acmicpc.net/problem/2562)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%B0%EC%97%B4/2562_%EC%B5%9C%EB%8C%93%EA%B0%92.py)|  
+| 2577      |  [숫자의개수(배열)](https://www.acmicpc.net/problem/2577)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%B0%EC%97%B4/2577_%EC%88%AB%EC%9E%90%EC%9D%98%EA%B0%9C%EC%88%98.py)|  
+| 3052      |  [나머지구하기(배열)](https://www.acmicpc.net/problem/3052)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%B0%EC%97%B4/3052_%EB%82%98%EB%A8%B8%EC%A7%80.py)|  
+| 4344      |  [평균은넘겠지(배열)](https://www.acmicpc.net/problem/4344)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%B0%EC%97%B4/4344_%ED%8F%89%EA%B7%A0%EC%9D%80%EB%84%98%EA%B2%A0%EC%A7%80.py)|  
+| 8958      |  [OX퀴즈(배열)](https://www.acmicpc.net/problem/8958)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%B0%EC%97%B4/8958_OX%ED%80%B4%EC%A6%88.py)|  
 </details>
 
 <details><summary>🔑 <strong>Programmers<strong>
