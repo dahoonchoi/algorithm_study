@@ -62,6 +62,9 @@
 | 3052      |  [나머지구하기(배열)](https://www.acmicpc.net/problem/3052)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%B0%EC%97%B4/3052_%EB%82%98%EB%A8%B8%EC%A7%80.py)|  
 | 4344      |  [평균은넘겠지(배열)](https://www.acmicpc.net/problem/4344)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%B0%EC%97%B4/4344_%ED%8F%89%EA%B7%A0%EC%9D%80%EB%84%98%EA%B2%A0%EC%A7%80.py)|  
 | 8958      |  [OX퀴즈(배열)](https://www.acmicpc.net/problem/8958)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%B0%B0%EC%97%B4/8958_OX%ED%80%B4%EC%A6%88.py)|  
+| 1065      |  [한수](https://www.acmicpc.net/problem/8958)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%ED%95%A8%EC%88%98/1065_%ED%95%9C%EC%88%98.py)|  
+| 4673      |  [셀프넘버](https://www.acmicpc.net/problem/4673)    | [풀이]https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%ED%95%A8%EC%88%98/4673_%EC%85%80%ED%94%84%EB%84%98%EB%B2%84.py)|  
+| 15596      |  [정수N개의합](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%ED%95%A8%EC%88%98/15596_%EC%A0%95%EC%88%98N%EA%B0%9C%EC%9D%98%ED%95%A9.py)| 
 </details>
 
 <details><summary>🔑 <strong>Programmers<strong>
