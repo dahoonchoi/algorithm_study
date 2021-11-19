@@ -42,6 +42,16 @@
 | 2753      |  [윤년](https://www.acmicpc.net/problem/2753)    | [풀이](hhttps://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/2753_%EC%9C%A4%EB%85%84.py)|   
 | 2884      |  [알람시계](https://www.acmicpc.net/problem/2884)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/2884_%EC%95%8C%EB%9E%8C%EC%8B%9C%EA%B3%84.py)|  
 | 14681      |  [사분면고르기](https://www.acmicpc.net/problem/14681)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/IF%EB%AC%B8/14681_%EC%82%AC%EB%B6%84%EB%A9%B4%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)|  
+| 1152      |  [단어의개수](https://www.acmicpc.net/problem/1152)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4/1152_%EB%8B%A8%EC%96%B4%EC%9D%98%EA%B0%9C%EC%88%98.py)|  
+| 1157      |  [단어공부](https://www.acmicpc.net/problem/1157)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4/1157_%EB%8B%A8%EC%96%B4%EA%B3%B5%EB%B6%80.py)|  
+| 1316      |  [그룹단어제거](https://www.acmicpc.net/problem/1316)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4/1316_%EA%B7%B8%EB%A3%B9%EB%8B%A8%EC%96%B4%EC%A0%9C%EA%B1%B0.py)|  
+| 2675      |  [문자열반복](https://www.acmicpc.net/problem/2675)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4/2675_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%98%EB%B3%B5.py)|  
+| 2908      |  [상수](https://www.acmicpc.net/problem/2908)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4/2908_%EC%83%81%EC%88%98.py)|  
+| 2941      |  [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4/2941_%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%EC%95%8C%ED%8C%8C%EB%B2%B3.py)|  
+| 5622      |  [다이얼](https://www.acmicpc.net/problem/5622)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4/5622_%EB%8B%A4%EC%9D%B4%EC%96%BC.py)|  
+| 10809      |  [알파벳](https://www.acmicpc.net/problem/10809)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4/10809_%EC%95%8C%ED%8C%8C%EB%B2%B3.py)|  
+| 11654      |  [아스키코드](https://www.acmicpc.net/problem/11654)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4/11654_%EC%95%84%EC%8A%A4%ED%82%A4%EC%BD%94%EB%93%9C.py)|  
+| 11720      |  [숫자의합](https://www.acmicpc.net/problem/11720)    | [풀이](https://github.com/dahoonchoi/problem-solving/blob/main/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4/11720_%EC%88%AB%EC%9E%90%EC%9D%98%ED%95%A9.py)|  
 </details>
 
 <details><summary>🔑 <strong>Programmers<strong>
